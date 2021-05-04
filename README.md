@@ -1,8 +1,8 @@
-# Cosmic-Web-Parallel
+# Cosmic-Web-Parallelized
 
 Parallel Version of https://github.com/forero/IllustrisWeb/blob/master/compute_cosmic_web.ipynb using numba (http://numba.pydata.org/)
 
-To use this script is neccesary install the following python modules:
+To use this script require the installation of the following python modules:
      
      h5py 
      numba
