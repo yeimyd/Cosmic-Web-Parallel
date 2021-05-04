@@ -11,7 +11,7 @@ To use this script is neccesary install the following python modules:
      numpy
      
      
-Run python CosmicWeb_Smooth.py
+Run in a teminal python CosmicWeb_Smooth.py
 
 This script use Dark matter density data of Illustris TNG300-2 to created the smooth cosmic web.
 
