@@ -27,6 +27,9 @@ This script use Dark matter density data of Illustris TNG300-2 to created the sm
     hessian 
     eigenvector1,eigenvector2,eigenvector3 #eigenvalues of hessian matrix
     
+    ![Screenshot](https://user-images.githubusercontent.com/10146082/116950337-521b2480-ac4a-11eb-9ec1-4feedf8d5b2b.png)
+
+    
     
     
     
