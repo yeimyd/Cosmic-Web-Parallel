@@ -20,7 +20,7 @@ This script use Dark matter density data of Illustris TNG300-2 to created the sm
     Nmesh1=256  # Number of mesh e.g. 256 512 or 1024
     The smooth scale  
     
-2. The output file is in HDF5 format and contain:
+2. The output file is HDF5 format and contain:
     density_smooth  
     lambda1,lambda2,lambda3 #eigenvalues of hessian matrix
     potential
