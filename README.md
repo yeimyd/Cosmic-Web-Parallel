@@ -21,11 +21,16 @@ This script use Dark matter density data of Illustris TNG300-2 to created the sm
     The smooth scale  
     
 2. The output file is HDF5 format and contain:
+    
     density_smooth  
-    lambda1,lambda2,lambda3 #eigenvalues of hessian matrix
+    lambda1
+    lambda2 
+    lambda3 # lambda1,lambda2 and lambda3 are the eigenvalues of hessian matrix
     potential
     hessian 
-    eigenvector1,eigenvector2,eigenvector3 #eigenvalues of hessian matrix
+    eigenvector1 
+    eigenvector2
+    eigenvector3 #eigenvector1, eigenvector2 and eigenvector3  are the eigenvalues of hessian matrix
     
     ![Screenshot](https://user-images.githubusercontent.com/10146082/116950337-521b2480-ac4a-11eb-9ec1-4feedf8d5b2b.png)
 
