@@ -11,17 +11,17 @@ To use this script require the installation of the following python modules:
      numpy
      
      
-Run in a teminal python CosmicWeb_Smooth.py
+Run in a teminal`python CosmicWeb_Smooth.py`
 
 This script use Dark matter density data (in format HDF5) of Illustris TNG300-2 to created the smooth cosmic web.
 
 1. Define: 
 
-  L_box   #  box Length in Mpc/h
+  `L_box   #  box Length in Mpc/h`
   
-  Nmesh   #number of mesh e.g. 256, 512, 1024
+  `Nmesh   #number of mesh e.g. 256, 512, 1024 `
   
-  smooth_scale # Smooth Scale
+  `smooth_scale # Smooth Scale `
   
  
  2. The output file is HDF5 format and contain:
